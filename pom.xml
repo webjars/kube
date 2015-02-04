@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>kube</artifactId>
-    <version>4.0.2-SNAPSHOT</version>
+    <version>4.0.2</version>
     <name>Kube</name>
     <description>WebJar for Kube</description>
     <url>http://webjars.org</url>
@@ -51,7 +51,7 @@
         <url>http://github.com/webjars/kube</url>
         <connection>scm:git:https://github.com/webjars/kube.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/kube.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>kube-4.0.2</tag>
     </scm>
     
     <build>
